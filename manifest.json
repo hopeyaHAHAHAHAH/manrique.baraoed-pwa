@@ -2,7 +2,7 @@
     "name": "Snake Game",
     "short_name": "Snake",
     "description": "A simple snake game made into a PWA",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
